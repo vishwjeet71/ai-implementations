@@ -1,2 +1,11 @@
-env/*
-Exprements/*
+optimizer
+
+# models
+transformers/DeepSeek/V4
+
+# others
+Docker
+Exprements
+
+# Research papers
+Research papers
