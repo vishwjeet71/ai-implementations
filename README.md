@@ -4,7 +4,7 @@ This repository contains my hands-on implementations of different algorithms, co
 
 ### Currently Working On
 
-* Implementing the standard Transformer Encoder–Decoder architecture proposed in the original *Attention Is All You Need* paper.
+* Rebuilding pretrained Transformer-based models from their original Safetensors weights to understand their architecture and internal implementation.
 
 ### Concepts Covered
 
@@ -18,7 +18,8 @@ This repository contains my hands-on implementations of different algorithms, co
   * Bahdanau Attention
   * Luong Attention
 * Transformers
-
+  
+  * Standard Transformer Encoder–Decoder
   * Simple GPT-style Decoder-only Transformer
 
 ### LangChain

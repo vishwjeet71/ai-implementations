@@ -12,3 +12,4 @@ Research papers
 
 # Transformers
 transformers/encoder-decoder/best_model.pt
+transformers/encoder-decoder/model.safetensors
